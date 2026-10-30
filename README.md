@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I'm currently working as an Oracle SQL & PL/SQL Developer with 3.6 years of experience.<br>👯 I'm looking to collaborate on Oracle Database, PL/SQL Development, and Backend Development projects.<br>🤝 I'm looking for help with Python Development, REST API Integration, and Database Performance Optimization.<br>🌱 I'm currently learning Python, REST APIs, Backend Development, and Automation.<br>💬 Ask me about Oracle SQL, PL/SQL, Stored Procedures, Functions, Packages, Triggers, Cursors, and Performance Tuning.<br>⚡ Fun fact: I enjoy solving complex database problems and turning real-world requirements into efficient database solutions.
+# 💫 Hi 👋, I'm Shashank Sonawale
+
+**An Oracle SQL & PL/SQL Developer | Database Developer | Aspiring Python Backend Developer from India 🇮🇳**
+
+📧 **Email Me:** rjshashank2001@gmail.com for Collaboration, Projects, or Professional Opportunities.
+
+- 🔭 **I'm currently working on:** Oracle SQL & PL/SQL Development, Database Projects, and Performance Optimization.
+- 🌱 **I'm currently learning:** Python, REST APIs, Backend Development, and Automation.
+- 👯 **I'm looking to collaborate on:** Oracle Database, PL/SQL Development, Python, and Backend Development Projects.
+- 🤝 **I'm looking for help with:** Python Development, REST API Integration, and Advanced Database Optimization.
+- 💬 **Ask me about:** Oracle SQL, PL/SQL, Stored Procedures, Functions, Packages, Triggers, Cursors, Bulk Collect, FORALL, and SQL Performance Tuning.
+- 📫 **How to reach me:** rjshashank2001@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love solving database challenges, learning new technologies, and turning ideas into efficient solutions! 🚀
 
 
 ## 🌐 Socials:
