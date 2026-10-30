@@ -1,37 +1,193 @@
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">Hi 👋, I'm Shashank Sonawale</h1>
+
 <h3 align="center">Oracle SQL & PL/SQL Developer | Database Developer | Python Enthusiast 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi9621&label=Profile%20views&color=0e75b6&style=flat" alt="shashi9621" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashi9621" alt="shashi9621" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/the_shashank_9" target="blank"><img src="https://img.shields.io/twitter/follow/the_shashank_9?logo=twitter&style=for-the-badge" alt="the_shashank_9" /></a> </p>
-
-- 🔭 I’m currently working on **Oracle SQL & PL/SQL Development, Database Projects, and Performance Optimization.**
-
-- 🌱 I’m currently learning **Python Programming, REST API Development, Backend Development, API Integration, Database Connectivity, and Automation using Python. 🚀**
-
-- 👯 I’m looking to collaborate on **Oracle Database, PL/SQL Development, Python, and Backend Development Projects.**
-
-- 🤝 I’m looking for help with **Python Development, REST API Integration, and Advanced Database Optimization.**
-
-- 💬 Ask me about **Oracle SQL, PL/SQL, Stored Procedures, Functions, Packages, Triggers, Cursors, Bulk Collect, FORALL, and SQL Performance Tuning.**
-
-- 📫 How to reach me **rjshashank2001@gmail.com**
-
-- ⚡ Fun fact **I love solving database challenges, learning new technologies, and turning ideas into efficient solutions! 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/the_shashank_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_shashank_9" height="30" width="40" /></a>
-<a href="https://instagram.com/midnightcaffeine_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midnightcaffeine_09" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Oracle+SQL+%26+PL%2FSQL+Developer;Database+Development+%26+Optimization;Learning+Python+%26+REST+APIs;Building+Efficient+Database+Solutions" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashi9621&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shashi9621?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi9621&show_icons=true&locale=en&layout=compact" alt="shashi9621" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi9621&show_icons=true&locale=en" alt="shashi9621" /></p>
+<!-- ================= ABOUT ME ================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi9621&" alt="shashi9621" /></p>
+## 💫 About Me
+
+👨‍💻 I'm an **Oracle SQL & PL/SQL Developer** from India 🇮🇳 with **3.6 years of development experience**.
+
+- 🔭 **Currently working on:** Oracle SQL & PL/SQL Development, Database Projects, and Performance Optimization.
+- 🌱 **Currently learning:** Python, REST APIs, Backend Development, API Integration, and Automation.
+- 👯 **Looking to collaborate on:** Oracle Database, PL/SQL Development, Python, and Backend Development Projects.
+- 🤝 **Looking for help with:** Python Development, REST API Integration, and Advanced Database Optimization.
+- 💬 **Ask me about:** Oracle SQL, PL/SQL, Stored Procedures, Functions, Packages, Triggers, Cursors, BULK COLLECT, FORALL, and SQL Performance Tuning.
+- 📫 **Email:** [rjshashank2001@gmail.com](mailto:rjshashank2001@gmail.com)
+- ⚡ **Fun fact:** I love solving database challenges, learning new technologies, and turning ideas into efficient solutions! 🚀
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/the_shashank_9">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/midnightcaffeine_09">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:rjshashank2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/shashi9621">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Languages and Tools
+
+### Database & Programming
+
+<p align="left">
+  <a href="https://www.oracle.com/database/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+  </a>
+</p>
+
+### Development Tools & Technologies
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+  </a>
+</p>
+
+### Core Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle_SQL-Database-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-Development-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Learning-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-Learning-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-Repository_Management-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL_Performance-Tuning-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/JSON-Data_Exchange-yellow?style=flat-square" />
+</p>
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashi9621&theme=tokyonight" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi9621&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi9621&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION STREAK ================= -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shashi9621&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/shashi9621">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashi9621&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashi9621&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/shashi9621?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  </a>
+</p>
+
+<!-- 
+Add your actual GitHub repository names below.
+Replace REPOSITORY_NAME with your real repository names.
+
+Example:
+
+<a href="https://github.com/shashi9621/REPOSITORY_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashi9621&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Project Name" />
+</a>
+-->
+
+---
+
+<!-- ================= PROFILE SUMMARY ================= -->
+
+## 📌 More About My GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashi9621&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+<h3 align="center">💻 Code | 🚀 Learn | 🔥 Build | 🌱 Grow</h3>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let's connect and build something amazing together. 😊</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
